@@ -4,7 +4,7 @@
 
 # Descargas
 
-- [ToolKit Recorrido 1.0f0](https://raw.githubusercontent.com/TheReaperScythe/Kit_Iluminacion/master/Versiones/ToolKit_Iluminacion_1_0f0.unitypackage)
+- [ToolKit Recorrido 1.0f0](https://raw.githubusercontent.com/JJesusGO/Kit_Iluminacion/master/Versiones/ToolKit_Iluminacion_1_0f0.unitypackage)
 
 # Retroalimentacion/Reporte de Bugs
 
